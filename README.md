@@ -1,0 +1,1 @@
+# synology-ds-startup-script
